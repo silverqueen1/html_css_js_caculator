@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "web.html",
+			"path": "../web.html"
+		},
+		{
+			"name": "dragon game",
+			"path": "../dragon game"
+		},
+		{
+			"name": "bhabhi.web",
+			"path": "../bhabhi.web"
+		},
+		{
+			"name": "cal.intership",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "cal.intership"
+	}
+}
